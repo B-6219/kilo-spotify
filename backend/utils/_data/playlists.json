@@ -1,0 +1,34 @@
+[
+  {
+    "name": "My Favorite Rock Songs",
+    "description": "A collection of my favorite rock songs",
+    "user": "64f0d7d7f7d7d7d7d7d7d7d1",
+    "songs": [
+      "64f0d7d7f7d7d7d7d7d7d7d17",
+      "64f0d7d7f7d7d7d7d7d7d7d18",
+      "64f0d7d7f7d7d7d7d7d7d7d19"
+    ],
+    "isPublic": true
+  },
+  {
+    "name": "Workout Playlist",
+    "description": "High energy songs for working out",
+    "user": "64f0d7d7f7d7d7d7d7d7d7d2",
+    "songs": [
+      "64f0d7d7f7d7d7d7d7d7d7d20",
+      "64f0d7d7f7d7d7d7d7d7d7d21"
+    ],
+    "isPublic": false
+  },
+  {
+    "name": "Chill Vibes",
+    "description": "Relaxing songs for chilling",
+    "user": "64f0d7d7f7d7d7d7d7d7d7d3",
+    "songs": [
+      "64f0d7d7f7d7d7d7d7d7d7d22",
+      "64f0d7d7f7d7d7d7d7d7d7d23",
+      "64f0d7d7f7d7d7d7d7d7d7d24"
+    ],
+    "isPublic": true
+  }
+]

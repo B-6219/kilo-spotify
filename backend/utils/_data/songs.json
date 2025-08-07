@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Come Together",
+    "artist": "64f0d7d7f7d7d7d7d7d7d7d7",
+    "album": "64f0d7d7f7d7d7d7d7d7d7d12",
+    "duration": 260,
+    "genre": "Rock",
+    "filePath": "/music/come-together.mp3"
+  },
+  {
+    "title": "Something",
+    "artist": "64f0d7d7f7d7d7d7d7d7d7d7",
+    "album": "64f0d7d7f7d7d7d7d7d7d7d12",
+    "duration": 183,
+    "genre": "Rock",
+    "filePath": "/music/something.mp3"
+  },
+  {
+    "title": "Stairway to Heaven",
+    "artist": "64f0d7d7f7d7d7d7d7d7d7d8",
+    "album": "64f0d7d7f7d7d7d7d7d7d7d13",
+    "duration": 482,
+    "genre": "Rock",
+    "filePath": "/music/stairway-to-heaven.mp3"
+  },
+  {
+    "title": "Black",
+    "artist": "64f0d7d7f7d7d7d7d7d7d7d8",
+    "album": "64f0d7d7f7d7d7d7d7d7d7d13",
+    "duration": 295,
+    "genre": "Rock",
+    "filePath": "/music/black.mp3"
+  },
+  {
+    "title": "Time",
+    "artist": "64f0d7d7f7d7d7d7d7d7d7d9",
+    "album": "64f0d7d7f7d7d7d7d7d7d7d14",
+    "duration": 382,
+    "genre": "Progressive Rock",
+    "filePath": "/music/time.mp3"
+  },
+  {
+    "title": "Money",
+    "artist": "64f0d7d7f7d7d7d7d7d7d7d9",
+    "album": "64f0d7d7f7d7d7d7d7d7d7d14",
+    "duration": 382,
+    "genre": "Progressive Rock",
+    "filePath": "/music/money.mp3"
+  },
+  {
+    "title": "Like a Rolling Stone",
+    "artist": "64f0d7d7f7d7d7d7d7d7d7d10",
+    "album": "64f0d7d7f7d7d7d7d7d7d7d15",
+    "duration": 369,
+    "genre": "Folk Rock",
+    "filePath": "/music/like-a-rolling-stone.mp3"
+  },
+  {
+    "title": "My Song",
+    "artist": "64f0d7d7f7d7d7d7d7d7d7d11",
+    "album": "64f0d7d7f7d7d7d7d7d7d7d16",
+    "duration": 180,
+    "genre": "Pop",
+    "filePath": "/music/my-song.mp3"
+  }
+]
