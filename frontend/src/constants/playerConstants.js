@@ -1,0 +1,13 @@
+export const SET_CURRENT_SONG = 'SET_CURRENT_SONG';
+export const SET_PLAYING = 'SET_PLAYING';
+export const SET_VOLUME = 'SET_VOLUME';
+export const SET_PROGRESS = 'SET_PROGRESS';
+export const SET_DURATION = 'SET_DURATION';
+export const SET_PLAYLIST = 'SET_PLAYLIST';
+export const ADD_TO_QUEUE = 'ADD_TO_QUEUE';
+export const REMOVE_FROM_QUEUE = 'REMOVE_FROM_QUEUE';
+export const CLEAR_QUEUE = 'CLEAR_QUEUE';
+export const SET_REPEAT = 'SET_REPEAT';
+export const SET_SHUFFLE = 'SET_SHUFFLE';
+export const NEXT_SONG = 'NEXT_SONG';
+export const PREV_SONG = 'PREV_SONG';
