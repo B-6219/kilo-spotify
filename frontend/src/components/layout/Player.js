@@ -3,6 +3,7 @@ import { useSelector, useDispatch } from 'react-redux';
 import {
   setPlaying,
   setProgress,
+  setVolume,
   nextSong,
   prevSong
 } from '../../actions/playerActions';
