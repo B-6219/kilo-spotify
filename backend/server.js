@@ -14,6 +14,8 @@ connectDB();
 
 // Route files
 const auth = require('./routes/auth');
+const artists = require('./routes/artists');
+const albums = require('./routes/albums');
 
 // Initialize Express app
 const app = express();
@@ -27,6 +29,8 @@ app.use(express.urlencoded({ extended: true, limit: '50mb' })); // Parse URL-enc
 
 // Mount routers
 app.use('/api/v1/auth', auth);
+app.use('/api/v1/artists', artists);
+app.use('/api/v1/albums', albums);
 
 // Routes
 app.get('/', (req, res) => {
