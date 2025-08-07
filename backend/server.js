@@ -21,6 +21,7 @@ const playlists = require('./routes/playlists');
 const search = require('./routes/search');
 const likes = require('./routes/likes');
 const users = require('./routes/users');
+const oauth = require('./routes/oauth');
 
 // Initialize Express app
 const app = express();
@@ -41,6 +42,7 @@ app.use('/api/v1/playlists', playlists);
 app.use('/api/v1/search', search);
 app.use('/api/v1/likes', likes);
 app.use('/api/v1/users', users);
+app.use('/api/v1/oauth', oauth);
 
 // Routes
 app.get('/', (req, res) => {

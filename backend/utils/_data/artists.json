@@ -1,0 +1,32 @@
+[
+  {
+    "name": "The Beatles",
+    "bio": "The Beatles were an English rock band formed in Liverpool in 1960.",
+    "verified": true,
+    "monthlyListeners": 1000000
+  },
+  {
+    "name": "Led Zeppelin",
+    "bio": "Led Zeppelin were an English rock band formed in London in 1968.",
+    "verified": true,
+    "monthlyListeners": 800000
+  },
+  {
+    "name": "Pink Floyd",
+    "bio": "Pink Floyd were an English rock band formed in London in 1965.",
+    "verified": true,
+    "monthlyListeners": 750000
+  },
+  {
+    "name": "Bob Dylan",
+    "bio": "Bob Dylan is an American singer-songwriter who has been a major figure in popular music for over six decades.",
+    "verified": true,
+    "monthlyListeners": 600000
+  },
+  {
+    "name": "Bob Johnson",
+    "bio": "Bob Johnson is a talented musician and singer-songwriter.",
+    "verified": false,
+    "monthlyListeners": 1000
+  }
+]

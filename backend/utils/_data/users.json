@@ -1,0 +1,30 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "password": "123456",
+    "role": "user",
+    "subscription": "free"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "password": "123456",
+    "role": "user",
+    "subscription": "premium"
+  },
+  {
+    "name": "Bob Johnson",
+    "email": "bob@example.com",
+    "password": "123456",
+    "role": "artist",
+    "subscription": "free"
+  },
+  {
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "password": "123456",
+    "role": "admin",
+    "subscription": "premium"
+  }
+]
