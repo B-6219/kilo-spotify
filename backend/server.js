@@ -16,6 +16,10 @@ connectDB();
 const auth = require('./routes/auth');
 const artists = require('./routes/artists');
 const albums = require('./routes/albums');
+const songs = require('./routes/songs');
+const playlists = require('./routes/playlists');
+const search = require('./routes/search');
+const likes = require('./routes/likes');
 
 // Initialize Express app
 const app = express();
@@ -31,6 +35,10 @@ app.use(express.urlencoded({ extended: true, limit: '50mb' })); // Parse URL-enc
 app.use('/api/v1/auth', auth);
 app.use('/api/v1/artists', artists);
 app.use('/api/v1/albums', albums);
+app.use('/api/v1/songs', songs);
+app.use('/api/v1/playlists', playlists);
+app.use('/api/v1/search', search);
+app.use('/api/v1/likes', likes);
 
 // Routes
 app.get('/', (req, res) => {
