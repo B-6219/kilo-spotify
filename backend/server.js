@@ -20,6 +20,7 @@ const songs = require('./routes/songs');
 const playlists = require('./routes/playlists');
 const search = require('./routes/search');
 const likes = require('./routes/likes');
+const users = require('./routes/users');
 
 // Initialize Express app
 const app = express();
@@ -39,6 +40,7 @@ app.use('/api/v1/songs', songs);
 app.use('/api/v1/playlists', playlists);
 app.use('/api/v1/search', search);
 app.use('/api/v1/likes', likes);
+app.use('/api/v1/users', users);
 
 // Routes
 app.get('/', (req, res) => {
